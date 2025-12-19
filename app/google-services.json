@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1075123149446",
+    "project_id": "pop-app-fdrvoderi20-9fd69",
+    "storage_bucket": "pop-app-fdrvoderi20-9fd69.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1075123149446:android:18680dd8923fccc0d94f07",
+        "android_client_info": {
+          "package_name": "hr.foi.air.popapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBL0AKTIdx972lexXXG6zy-FffbZZBoMBg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
